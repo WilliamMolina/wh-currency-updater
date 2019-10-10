@@ -1,0 +1,12 @@
+price:
+    css: 'td.a-span12 span.a-size-medium'
+    type: Text
+originalPrice:
+    css: span.priceBlockStrikePriceString
+    type: Text
+name:
+    css: 'h1.a-size-large span.a-size-large'
+    type: Text
+availability:
+    css: 'div.centerColAlign div.a-section.a-spacing-none span.a-size-medium'
+    type: Text
